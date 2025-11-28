@@ -3,6 +3,9 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-11-28
+* Deletion of memories (app 1.14) by @avuori
+
 # 2025-11-26
 * Calendar events now understand user's local timezone (app v1.13) by @avuori
 

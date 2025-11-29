@@ -3,6 +3,9 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-11-29 — app 1.16
+* Fix: memory ingestion shows warning if user not integrated with CORE
+
 # 2025-11-29 — app 1.15
 * Sharing content from other apps and ingest as memories by @avuori
 * Written or copy-pasted memory ingestion by @avuori

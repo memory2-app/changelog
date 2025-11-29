@@ -3,11 +3,15 @@ layout: default
 title: Memory2 Changelog
 ---
 
-# 2025-11-28
-* Deletion of memories (app 1.14) by @avuori
+# 2025-11-29 — app 1.15
+* Sharing content from other apps and ingest as memories by @avuori
+* Written or copy-pasted memory ingestion by @avuori
 
-# 2025-11-26
-* Calendar events now understand user's local timezone (app v1.13) by @avuori
+# 2025-11-28 — app 1.14
+* Deletion of memories by @avuori
+
+# 2025-11-26 — app 1.13
+* Calendar events now understand user's local timezone by @avuori
 
 # 2025-11-23
 * Car integration: use car audio system to chat with the assistant by @avuori

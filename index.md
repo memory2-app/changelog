@@ -3,6 +3,15 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-11-30 — app 1.18
+* Fix: layout bug with quick actions
+
+# 2025-11-30 — app 1.17
+* Quick assistant actions
+    * Calendar
+    * Meetings
+    * Inbox summary
+    * Draft email
 # 2025-11-29 — app 1.16
 * Fix: memory ingestion shows warning if user not integrated with CORE
 

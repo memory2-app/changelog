@@ -3,6 +3,10 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-11-30 — app 1.19
+* Fix: possible race condition in add memory view by @avuori
+* Fix: memory leak with logs by @avuori
+
 # 2025-11-30 — app 1.18
 * Fix: layout bug with quick actions by @avuori
 * Fix: assistant should avoid reading aloud asterisks in lists by @avuori

@@ -5,6 +5,7 @@ title: Memory2 Changelog
 
 # 2025-11-30 — app 1.18
 * Fix: layout bug with quick actions
+* Fix: assistant should avoid reading aloud asterisks in lists
 
 # 2025-11-30 — app 1.17
 * Quick assistant actions

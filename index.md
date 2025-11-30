@@ -4,18 +4,18 @@ title: Memory2 Changelog
 ---
 
 # 2025-11-30 — app 1.18
-* Fix: layout bug with quick actions
-* Fix: assistant should avoid reading aloud asterisks in lists
+* Fix: layout bug with quick actions by @avuori
+* Fix: assistant should avoid reading aloud asterisks in lists by @avuori
 
 # 2025-11-30 — app 1.17
-* Quick assistant actions
+* Quick assistant actions by @avuori
     * Calendar
     * Meetings
     * Inbox summary
     * Draft email
 
 # 2025-11-29 — app 1.16
-* Fix: memory ingestion shows warning if user not integrated with CORE
+* Fix: memory ingestion shows warning if user not integrated with CORE by @avuori
 
 # 2025-11-29 — app 1.15
 * Sharing content from other apps and ingest as memories by @avuori

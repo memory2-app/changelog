@@ -12,6 +12,7 @@ title: Memory2 Changelog
     * Meetings
     * Inbox summary
     * Draft email
+
 # 2025-11-29 — app 1.16
 * Fix: memory ingestion shows warning if user not integrated with CORE
 

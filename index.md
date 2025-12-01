@@ -3,6 +3,12 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-02 — app 1.21
+* Fix Slack logo
+
+# 2025-12-01 — app 1.20
+* Integration settings for all integrations
+
 # 2025-11-30 — app 1.19
 * Fix: possible race condition in add memory view by @avuori
 * Fix: memory leak with logs by @avuori

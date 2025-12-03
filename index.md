@@ -3,6 +3,9 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-03 — app 1.22
+* Zoho mail integration
+
 # 2025-12-02 — app 1.21
 * Fix Slack logo
 

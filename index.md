@@ -3,6 +3,12 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-04 — app 1.24
+* Improved user experience in settings
+
+# 2025-12-04 — app 1.23
+* Improved user experience on the home screen
+
 # 2025-12-03 — app 1.22
 * Zoho mail integration
 

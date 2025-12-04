@@ -3,6 +3,9 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-04 — app 1.25
+* Fix: UI glitch in settings
+
 # 2025-12-04 — app 1.24
 * Improved user experience in settings
 

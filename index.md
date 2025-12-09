@@ -3,23 +3,26 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-09 — app 1.26
+* Fix: Zoho mail integration for non-US tenants by @avuori
+
 # 2025-12-04 — app 1.25
-* Fix: UI glitch in settings
+* Fix: UI glitch in settings by @avuori
 
 # 2025-12-04 — app 1.24
-* Improved user experience in settings
+* Improved user experience in settings by @avuori
 
 # 2025-12-04 — app 1.23
-* Improved user experience on the home screen
+* Improved user experience on the home screen by @avuori
 
 # 2025-12-03 — app 1.22
-* Zoho mail integration
+* Zoho mail integration by @avuori
 
 # 2025-12-02 — app 1.21
-* Fix Slack logo
+* Fix Slack logo by @avuori
 
 # 2025-12-01 — app 1.20
-* Integration settings for all integrations
+* Integration settings for all integrations by @avuori
 
 # 2025-11-30 — app 1.19
 * Fix: possible race condition in add memory view by @avuori

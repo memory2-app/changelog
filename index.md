@@ -3,6 +3,10 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-10 — app 1.27
+* Integrations management buttons in settings by @avuori
+* Fix: Button styling inconsistency in settings by @avuori
+
 # 2025-12-09 — app 1.26
 * Fix: Zoho mail integration for non-US tenants by @avuori
 

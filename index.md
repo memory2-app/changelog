@@ -3,6 +3,9 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-14 — app 1.28
+* Better error handling to the sign in flow by @avuori
+
 # 2025-12-10 — app 1.27
 * Integrations management buttons in settings by @avuori
 * Fix: Button styling inconsistency in settings by @avuori

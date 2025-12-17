@@ -3,6 +3,11 @@ layout: default
 title: Memory2 Changelog
 ---
 
+# 2025-12-17 — app 1.32 (1.31, 1.30)
+* Fix: user may not notice a disconnected voice session
+* Fix: edge cases causing crashes on the chat view and the memories view by @avuori
+* Fix: possible battery leakage
+
 # 2025-12-16 — app 1.29
 * Change how Google login prompt is implemented. A possible fix on some devices where login fails by @avuori
 
